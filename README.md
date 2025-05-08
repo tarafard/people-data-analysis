@@ -1,4 +1,4 @@
-# Dataset Analysis (A Full Data Analysis Project)
+# HR Analysis (A Full Data Analysis Project)
 
  
 <img width="1169" alt="HR KPIs" src="https://github.com/user-attachments/assets/e8f4b423-e074-43fc-a7ea-d67ac156bd64">
